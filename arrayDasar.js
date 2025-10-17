@@ -40,9 +40,9 @@ for(let i = 0; i < hewan.length; i++){
 
 
 
-/*
+/* task 1
 Tampilkan semua isi array satu per satu ke console.
-➤ Gunakan loop for atau forEach().
+ Gunakan loop for atau forEach().
 
 Tambahkan 1 hewan baru di akhir array menggunakan push().
 
